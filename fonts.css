@@ -4,6 +4,7 @@
    font-weight: bold;
    font-style: normal;
 }
+
 @font-face {
    font-family: "Montserrat";
    src: url("fonts/Montserrat Bold Italic.woff") format("woff"), url("fonts/Montserrat Bold Italic.eot") format("embedded-opentype"), url("fonts/Montserrat Bold Italic.ttf") format("truetype"), url("fonts/Montserrat Bold Italic.svg") format("svg");

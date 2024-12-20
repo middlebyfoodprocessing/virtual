@@ -143,5 +143,5 @@ HotspotPanoramaOverlayArea_DF136585_CE70_AD63_41BA_B2726852BEAC.toolTip = Go to 
 
 ### URL
 PopupWebFrameBehaviour_267A220E_298C_0D8F_41BF_E04A37137C7F.url = //www.youtube.com/embed/BftKWReIQLc
-PopupWebFrameBehaviour_4EBC1B91_417B_4CED_41BA_ED1D76819F6D.url = https://mfp.systems
+PopupWebFrameBehaviour_4EBC1B91_417B_4CED_41BA_ED1D76819F6D.url = https://firebasestorage.googleapis.com/v0/b/mfp-systems-cloud.appspot.com/o/brochures%2Fgroup%2FMiddleby_Protein_Catalog_2024.pdf?alt=media&token=93fea88c-7932-40e7-80cb-4c71c1914fbb
 PopupWebFrameBehaviour_4F57916F_4186_BC35_41CC_0D66576FBFFC.url = //www.youtube.com/embed/OlkE4VhGfkY
